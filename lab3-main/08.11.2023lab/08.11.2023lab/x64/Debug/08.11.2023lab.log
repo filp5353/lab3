@@ -1,0 +1,4 @@
+﻿  08.11.2023lab.cpp
+G:\git\lab3-main\08.11.2023lab\08.11.2023lab\08.11.2023lab.cpp(121,15): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+G:\git\lab3-main\08.11.2023lab\08.11.2023lab\08.11.2023lab.cpp(125,13): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  08.11.2023lab.vcxproj -> G:\git\lab3-main\08.11.2023lab\x64\Debug\08.11.2023lab.exe
